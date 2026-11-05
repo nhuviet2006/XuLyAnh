@@ -1,0 +1,241 @@
+{
+ "id": "doc03",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    178,
+    995,
+    615
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    335,
+    114,
+    904,
+    165
+   ],
+   "lines": [
+    {
+     "bbox": [
+      335,
+      114,
+      904,
+      165
+     ],
+     "text": "Giới thiệu Thành phốHồChí Minh",
+     "size": 18.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    629,
+    1122,
+    784
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      629,
+      1122,
+      668
+     ],
+     "text": "Thành phốHồChí Minh là trung tâm kinh tế, văn hóa và khoa học lớn nhất của Việt",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      667,
+      1122,
+      707
+     ],
+     "text": "Nam. Thành phốnằm ởmiền Nam, bên bờsông Sài Gòn, với khí hậu nhiệt đới gió",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      706,
+      1122,
+      745
+     ],
+     "text": "mùa quanh năm. Nhịp sống nhộn nhịp cùng nhiều trường đại học và khu công nghệ",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      744,
+      797,
+      784
+     ],
+     "text": "khiến nơi đây thu hút đông đảo người trẻtừkhắp cảnước.",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    800,
+    1122,
+    916
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      800,
+      1122,
+      839
+     ],
+     "text": "Bên cạnh nhịp sống hiện đại, thành phốcòn giữnhiều dấu ấn lịch sử. Ẩm thực cũng",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      838,
+      1122,
+      878
+     ],
+     "text": "là một nét đặc sắc, từbánh mì, cơm tấm đến các món ăn vặt vỉa hè, phản ánh sựđa",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      877,
+      446,
+      916
+     ],
+     "text": "dạng của một đô thịcởi mở.",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    932,
+    427,
+    971
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      932,
+      427,
+      971
+     ],
+     "text": "Một sốđịa điểm nổi tiếng:",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    987,
+    384,
+    1027
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      987,
+      384,
+      1027
+     ],
+     "text": "Nhà thờĐức Bà",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    1034,
+    433,
+    1073
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      1034,
+      433,
+      1073
+     ],
+     "text": "Bưu điện Thành phố",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    1081,
+    379,
+    1120
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      1081,
+      379,
+      1120
+     ],
+     "text": "ChợBến Thành",
+     "size": 14.1,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 12
+}

@@ -1,0 +1,287 @@
+{
+ "id": "doc05",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    609,
+    995,
+    1046
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    207,
+    109,
+    1032,
+    151
+   ],
+   "lines": [
+    {
+     "bbox": [
+      207,
+      109,
+      1032,
+      151
+     ],
+     "text": "QUY TRÌNH KIỂM SOÁT CHẤT LƯỢNG SẢN PHẨM (QA/QC)",
+     "size": 14.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "subtitle",
+   "bbox": [
+    255,
+    154,
+    985,
+    187
+   ],
+   "lines": [
+    {
+     "bbox": [
+      255,
+      154,
+      985,
+      187
+     ],
+     "text": "Đảm bảo tiêu chuẩn chất lượng nghiêm ngặt trước khi xuất xưởng",
+     "size": 12.0,
+     "bold": false,
+     "italic": true
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    202,
+    764,
+    238
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      202,
+      470,
+      238
+     ],
+     "text": "Người soạn thảo: Lê Tấn Phát",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      491,
+      202,
+      498,
+      238
+     ],
+     "text": "|",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      519,
+      202,
+      764,
+      238
+     ],
+     "text": "Ngày lập: 21/10/2026",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    256,
+    1108,
+    356
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      256,
+      1108,
+      290
+     ],
+     "text": "Công tác kiểm soát chất lượng đóng vai trò sống còn đối với uy tín sản phẩm của công ty.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      289,
+      1104,
+      323
+     ],
+     "text": "Quy trình kiểm tra được áp dụng nghiêm ngặt tại tất cảcác công đoạn từnguyên liệu đầu",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      322,
+      471,
+      356
+     ],
+     "text": "vào đến thành phẩm hoàn thiện.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    368,
+    1087,
+    435
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      368,
+      1087,
+      402
+     ],
+     "text": "Hệthống quản lý chất lượng tuân thủtiêu chuẩn ISO 9001:2015, được đánh giá và hiệu",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      401,
+      354,
+      435
+     ],
+     "text": "chuẩn thiết bịđịnh kỳ.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    112,
+    446,
+    412,
+    482
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      446,
+      412,
+      482
+     ],
+     "text": "Nội dung kiểm tra cốt lõi:",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    487,
+    758,
+    521
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      487,
+      758,
+      521
+     ],
+     "text": "Kiểm tra ngoại quan và thông sốkỹthuật từng lô hàng.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    522,
+    839,
+    556
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      522,
+      839,
+      556
+     ],
+     "text": "Thửnghiệm độbền và độan toàn trong điều kiện khắc nghiệt.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    557,
+    845,
+    591
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      557,
+      845,
+      591
+     ],
+     "text": "Lập hồsơ theo dõi lỗi và đềxuất biện pháp khắc phục kịp thời.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 14
+}

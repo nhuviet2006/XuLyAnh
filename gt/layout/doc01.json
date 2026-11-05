@@ -1,0 +1,264 @@
+{
+ "id": "doc01",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    292,
+    401,
+    948,
+    783
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    439,
+    114,
+    801,
+    160
+   ],
+   "lines": [
+    {
+     "bbox": [
+      439,
+      114,
+      801,
+      160
+     ],
+     "text": "Giới thiệu vềxửlý ảnh số",
+     "size": 15.9,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    175,
+    1117,
+    274
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      175,
+      1117,
+      208
+     ],
+     "text": "Xửlý ảnh sốlà lĩnh vực nghiên cứu các phương pháp biến đổi và phân tích ảnh bằng máy tính. Ảnh",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      208,
+      1103,
+      241
+     ],
+     "text": "được biểu diễn dưới dạng ma trận điểm ảnh, mỗi điểm ảnh mang một giá trịđộsáng. Nhờđó, máy",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      241,
+      859,
+      274
+     ],
+     "text": "tính có thểlọc nhiễu, làm rõ chi tiết và trích xuất những thông tin hữu ích.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    286,
+    1096,
+    386
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      286,
+      1062,
+      320
+     ],
+     "text": "Một ứng dụng quen thuộc là quét tài liệu bằng điện thoại. Người dùng chụp một trang giấy, hệ",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      319,
+      1096,
+      353
+     ],
+     "text": "thống sẽnắn thẳng ảnh, làm sáng đều nền và chuyển thành ảnh đen trắng rõ nét. Bước tiếp theo là",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      352,
+      617,
+      386
+     ],
+     "text": "nhận dạng chữđểtạo ra văn bản có thểchỉnh sửa.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    793,
+    604,
+    827
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      793,
+      604,
+      827
+     ],
+     "text": "Các bước chính trong một hệthống quét tài liệu:",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    839,
+    339,
+    872
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      839,
+      339,
+      872
+     ],
+     "text": "Tiền xửlý ảnh",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    878,
+    359,
+    912
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      878,
+      359,
+      912
+     ],
+     "text": "Phân tích bốcục",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    917,
+    527,
+    951
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      917,
+      527,
+      951
+     ],
+     "text": "Nhận dạng chữvà xuất file Word",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    956,
+    1103,
+    1023
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      956,
+      1103,
+      990
+     ],
+     "text": "Đểdựng lại tài liệu, hệthống cần biết vịtrí của từng dòng chữ, đoạn văn và hình minh họa. Đây là",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      990,
+      997,
+      1023
+     ],
+     "text": "bài toán phân tích bốcục, thường sửdụng các phép hình thái học và thống kê điểm ảnh.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 13
+}

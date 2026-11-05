@@ -1,0 +1,275 @@
+{
+ "id": "doc07",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    576,
+    995,
+    1013
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    224,
+    109,
+    1015,
+    151
+   ],
+   "lines": [
+    {
+     "bbox": [
+      224,
+      109,
+      1015,
+      151
+     ],
+     "text": "QUY TRÌNH TUYỂN DỤNG VÀ THỬVIỆC NHÂN VIÊN MỚI",
+     "size": 14.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "subtitle",
+   "bbox": [
+    244,
+    154,
+    995,
+    187
+   ],
+   "lines": [
+    {
+     "bbox": [
+      244,
+      154,
+      995,
+      187
+     ],
+     "text": "Các bước chuẩn hóa từtiếp nhận hồsơ đến hội nhập doanh nghiệp",
+     "size": 12.0,
+     "bold": false,
+     "italic": true
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    202,
+    819,
+    238
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      202,
+      526,
+      238
+     ],
+     "text": "Người soạn thảo: Phạm Thu Trang",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      547,
+      202,
+      554,
+      238
+     ],
+     "text": "|",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      575,
+      202,
+      819,
+      238
+     ],
+     "text": "Ngày lập: 21/10/2026",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    256,
+    1096,
+    323
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      256,
+      1096,
+      290
+     ],
+     "text": "Quy trình tuyển dụng chuẩn hóa giúp tìm kiếm đúng người đúng việc, đảm bảo tính minh",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      289,
+      931,
+      323
+     ],
+     "text": "bạch và chuyên nghiệp trong suốt quá trình phỏng vấn đánh giá ứng viên.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    335,
+    1098,
+    402
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      335,
+      1098,
+      369
+     ],
+     "text": "Giai đoạn thửviệc được thiết kếbài bản với các tiêu chí đánh giá rõ ràng, giúp nhân viên",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      368,
+      649,
+      402
+     ],
+     "text": "mới nhanh chóng hòa nhập với văn hóa công ty.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    112,
+    413,
+    565,
+    449
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      413,
+      565,
+      449
+     ],
+     "text": "Các bước trong quy trình tuyển dụng:",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    454,
+    804,
+    488
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      454,
+      804,
+      488
+     ],
+     "text": "Đăng tuyển và lọc hồsơ ứng viên theo tiêu chuẩn yêu cầu.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    489,
+    883,
+    523
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      489,
+      883,
+      523
+     ],
+     "text": "Tổchức phỏng vấn chuyên môn và đánh giá sựphù hợp văn hóa.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    524,
+    792,
+    558
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      524,
+      792,
+      558
+     ],
+     "text": "Ban hành thư mời nhận việc và chuẩn bịthủtục hội nhập.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 13
+}

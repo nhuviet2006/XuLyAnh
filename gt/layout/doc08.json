@@ -1,0 +1,299 @@
+{
+ "id": "doc08",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    642,
+    995,
+    1080
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    193,
+    109,
+    1047,
+    151
+   ],
+   "lines": [
+    {
+     "bbox": [
+      193,
+      109,
+      1047,
+      151
+     ],
+     "text": "BÁO CÁO TỔNG QUAN THỊTRƯỜNG CÔNG NGHỆVIỆT NAM",
+     "size": 14.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "subtitle",
+   "bbox": [
+    277,
+    154,
+    963,
+    187
+   ],
+   "lines": [
+    {
+     "bbox": [
+      277,
+      154,
+      963,
+      187
+     ],
+     "text": "Đánh giá xu hướng tăng trưởng và cơ hội phát triển năm 2026",
+     "size": 12.0,
+     "bold": false,
+     "italic": true
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    202,
+    819,
+    238
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      202,
+      526,
+      238
+     ],
+     "text": "Người soạn thảo: Nguyễn Văn Việt",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      547,
+      202,
+      554,
+      238
+     ],
+     "text": "|",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      575,
+      202,
+      819,
+      238
+     ],
+     "text": "Ngày lập: 21/10/2026",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    256,
+    1123,
+    389
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      256,
+      1123,
+      290
+     ],
+     "text": "Thịtrường công nghệthông tin tại Việt Nam đang duy trì tốc độphát triển mạnh mẽnhờsự",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      289,
+      1107,
+      323
+     ],
+     "text": "đẩy mạnh chuyển đổi sốtoàn diện từcác doanh nghiệp và cơ quan quản lý. Việc áp dụng",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      322,
+      1084,
+      356
+     ],
+     "text": "trí tuệnhân tạo (AI) và điện toán đám mây (Cloud Computing) đã trởthành trụcột chính",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      355,
+      530,
+      389
+     ],
+     "text": "trong chiến lược tối ưu hóa vận hành.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    401,
+    1099,
+    468
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      401,
+      1099,
+      435
+     ],
+     "text": "Các chỉsốphát triển chính trong quý vừa qua cho thấy mức độsẵn sàng công nghệtăng",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      434,
+      1029,
+      468
+     ],
+     "text": "cao, đặc biệt trong các lĩnh vực tài chính ngân hàng, bán lẻvà giáo dục trực tuyến.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    112,
+    479,
+    437,
+    515
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      479,
+      437,
+      515
+     ],
+     "text": "Các định hướng trọng tâm:",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    520,
+    807,
+    554
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      520,
+      807,
+      554
+     ],
+     "text": "Đầu tư nâng cấp hạtầng dữliệu và trung tâm dữliệu xanh.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    555,
+    954,
+    589
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      555,
+      954,
+      589
+     ],
+     "text": "Tăng cường an ninh mạng và bảo vệdữliệu cá nhân theo quy định mới.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    590,
+    1101,
+    624
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      590,
+      1101,
+      624
+     ],
+     "text": "Mởrộng chương trình đào tạo nguồn nhân lực chất lượng cao vềAI và Data Science.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 15
+}

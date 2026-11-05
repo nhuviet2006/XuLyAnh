@@ -1,0 +1,286 @@
+{
+ "id": "doc04",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    386,
+    426,
+    854,
+    699
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    118,
+    114,
+    523,
+    162
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      114,
+      523,
+      162
+     ],
+     "text": "Lợi ích của việc đọc sách",
+     "size": 15.9,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    170,
+    1120,
+    248
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      170,
+      1120,
+      204
+     ],
+     "text": "Đọc sách là một thói quen giản dịnhưng mang lại nhiều giá trịcho mỗi người. Dù chỉdành",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      214,
+      1021,
+      248
+     ],
+     "text": "mười lăm phút mỗi ngày, bạn vẫn có thểnhận thấy sựthay đổi sau một thời gian.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    118,
+    269,
+    387,
+    307
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      269,
+      387,
+      307
+     ],
+     "text": "1. Mởrộng kiến thức",
+     "size": 12.9,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    324,
+    1083,
+    401
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      324,
+      1083,
+      358
+     ],
+     "text": "Mỗi cuốn sách là một cánh cửa mởra thếgiới mới. Qua sách, chúng ta học được cách",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      367,
+      1037,
+      401
+     ],
+     "text": "người khác suy nghĩ và tiếp cận những lĩnh vực mà ngày thường ít có dịp tìm hiểu.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    118,
+    708,
+    444,
+    747
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      708,
+      444,
+      747
+     ],
+     "text": "2. Rèn luyện sựtập trung",
+     "size": 12.9,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    764,
+    1113,
+    841
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      764,
+      1113,
+      798
+     ],
+     "text": "Khác với việc lướt mạng xã hội, đọc sách đòi hỏi sựchú ý liên tục. Nhờvậy, khảnăng tập",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      807,
+      729,
+      841
+     ],
+     "text": "trung và ghi nhớcủa bạn được cải thiện theo thời gian.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    863,
+    311,
+    897
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      863,
+      311,
+      897
+     ],
+     "text": "Gợi ý đểbắt đầu:",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    918,
+    656,
+    952
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      918,
+      656,
+      952
+     ],
+     "text": "Chọn cuốn sách có chủđềbạn quan tâm.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    968,
+    665,
+    1002
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      968,
+      665,
+      1002
+     ],
+     "text": "Đặt mục tiêu đọc mười lăm phút mỗi ngày.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    1017,
+    617,
+    1051
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      1017,
+      617,
+      1051
+     ],
+     "text": "Ghi lại một ý tâm đắc sau mỗi lần đọc.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 13
+}

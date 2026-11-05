@@ -1,0 +1,287 @@
+{
+ "id": "doc10",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    609,
+    995,
+    1046
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    238,
+    109,
+    1001,
+    151
+   ],
+   "lines": [
+    {
+     "bbox": [
+      238,
+      109,
+      1001,
+      151
+     ],
+     "text": "HƯỚNG DẪN QUY TRÌNH VẬN HÀNH HỆTHỐNG CNTT",
+     "size": 14.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "subtitle",
+   "bbox": [
+    300,
+    154,
+    940,
+    187
+   ],
+   "lines": [
+    {
+     "bbox": [
+      300,
+      154,
+      940,
+      187
+     ],
+     "text": "Quy chuẩn bảo mật và bảo trì định kỳdành cho nhân viên",
+     "size": 12.0,
+     "bold": false,
+     "italic": true
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    202,
+    819,
+    238
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      202,
+      526,
+      238
+     ],
+     "text": "Người soạn thảo: Nguyễn Văn Việt",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      547,
+      202,
+      554,
+      238
+     ],
+     "text": "|",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      575,
+      202,
+      819,
+      238
+     ],
+     "text": "Ngày lập: 21/10/2026",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    256,
+    1115,
+    356
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      256,
+      1104,
+      290
+     ],
+     "text": "Tài liệu này cung cấp các hướng dẫn chi tiết vềvận hành và tuân thủan toàn thông tin tại",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      289,
+      1115,
+      323
+     ],
+     "text": "doanh nghiệp. Toàn bộnhân viên có trách nhiệm thực hiện đúng các quy định đểđảm bảo",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      322,
+      638,
+      356
+     ],
+     "text": "hệthống vận hành liên tục và không gián đoạn.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    368,
+    1125,
+    435
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      368,
+      1125,
+      402
+     ],
+     "text": "Việc sao lưu dữliệu được thực hiện tựđộng hằng ngày, tuy nhiên cán bộquản lý phụtrách",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      401,
+      580,
+      435
+     ],
+     "text": "vẫn cần kiểm tra nhật ký hệthống định kỳ.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    112,
+    446,
+    468,
+    482
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      446,
+      468,
+      482
+     ],
+     "text": "Các quy tắc an toàn bắt buộc:",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    487,
+    838,
+    521
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      487,
+      838,
+      521
+     ],
+     "text": "Thay đổi mật khẩu tài khoản truy cập định kỳ90 ngày một lần.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    522,
+    924,
+    556
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      522,
+      924,
+      556
+     ],
+     "text": "Không truy cập các liên kết lạhoặc tệp đính kèm không rõ nguồn gốc.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    557,
+    832,
+    591
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      557,
+      832,
+      591
+     ],
+     "text": "Báo cáo ngay cho bộphận IT khi phát hiện sựcốbất thường.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 14
+}
