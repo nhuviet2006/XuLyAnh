@@ -1,0 +1,275 @@
+{
+ "id": "doc06",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    576,
+    995,
+    1013
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    225,
+    109,
+    1015,
+    151
+   ],
+   "lines": [
+    {
+     "bbox": [
+      225,
+      109,
+      1015,
+      151
+     ],
+     "text": "BÁO CÁO NGHIÊN CỨU VÀ PHÁT TRIỂN CÔNG NGHỆAI",
+     "size": 14.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "subtitle",
+   "bbox": [
+    302,
+    154,
+    938,
+    187
+   ],
+   "lines": [
+    {
+     "bbox": [
+      302,
+      154,
+      938,
+      187
+     ],
+     "text": "Ứng dụng mô hình học máy vào bài toán xửlý dữliệu lớn",
+     "size": 12.0,
+     "bold": false,
+     "italic": true
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    202,
+    764,
+    238
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      202,
+      470,
+      238
+     ],
+     "text": "Người soạn thảo: Lê Tấn Phát",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      491,
+      202,
+      498,
+      238
+     ],
+     "text": "|",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      519,
+      202,
+      764,
+      238
+     ],
+     "text": "Ngày lập: 21/10/2026",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    256,
+    1127,
+    323
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      256,
+      1127,
+      290
+     ],
+     "text": "Đội ngũ R&D đã nghiên cứu và thửnghiệm thành công mô hình học máy xửlý ngôn ngữtự",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      289,
+      1029,
+      323
+     ],
+     "text": "nhiên tiếng Việt cho các bài toán phân tích cảm xúc và trích xuất thông tin tựđộng.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    335,
+    1125,
+    402
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      335,
+      1125,
+      369
+     ],
+     "text": "Kết quảthửnghiệm đạt độchính xác trên 92%, mởra triển vọng ứng dụng rộng rãi vào các",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      368,
+      655,
+      402
+     ],
+     "text": "sản phẩm thương mại của công ty trong năm tới.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    112,
+    413,
+    523,
+    449
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      413,
+      523,
+      449
+     ],
+     "text": "Kếhoạch triển khai R&D tiếp theo:",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    454,
+    815,
+    488
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      454,
+      815,
+      488
+     ],
+     "text": "Tối ưu hóa tốc độxửlý của mô hình trên thiết bịphần cứng.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    489,
+    838,
+    523
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      489,
+      838,
+      523
+     ],
+     "text": "Thửnghiệm bổsung tập dữliệu đa dạng trong nhiều lĩnh vực.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    524,
+    764,
+    558
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      524,
+      764,
+      558
+     ],
+     "text": "Đăng ký bản quyền sáng chếcho các thuật toán cốt lõi.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 13
+}

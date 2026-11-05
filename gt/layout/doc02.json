@@ -1,0 +1,240 @@
+{
+ "id": "doc02",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    292,
+    752,
+    948,
+    1135
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    118,
+    114,
+    496,
+    165
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      114,
+      496,
+      165
+     ],
+     "text": "Cách học tập hiệu quả",
+     "size": 17.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    185,
+    1120,
+    258
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      185,
+      1120,
+      222
+     ],
+     "text": "Học tập hiệu quảkhông có nghĩa là học thật nhiều giờmỗi ngày. Quan trọng hơn là",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      221,
+      593,
+      258
+     ],
+     "text": "biết cách học và giữđược sựtập trung.",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    295,
+    1115,
+    367
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      295,
+      1115,
+      331
+     ],
+     "text": "Hãy chia nhỏnội dung thành từng phần vừa sức. Mỗi lần chỉtập trung vào một chủ",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      330,
+      623,
+      367
+     ],
+     "text": "đềgiúp bạn hiểu sâu hơn và nhớlâu hơn.",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    404,
+    1074,
+    476
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      404,
+      1074,
+      440
+     ],
+     "text": "Ôn tập đều đặn quan trọng không kém việc học bài mới. Việc nhắc lại kiến thức",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      118,
+      439,
+      986,
+      476
+     ],
+     "text": "sau một ngày, ba ngày và bảy ngày giúp thông tin đi vào trí nhớdài hạn.",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    118,
+    512,
+    461,
+    549
+   ],
+   "lines": [
+    {
+     "bbox": [
+      118,
+      512,
+      461,
+      549
+     ],
+     "text": "Một sốthói quen nên duy trì:",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    586,
+    634,
+    623
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      586,
+      634,
+      623
+     ],
+     "text": "1. Lập kếhoạch học tập cho từng tuần.",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    640,
+    669,
+    677
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      640,
+      669,
+      677
+     ],
+     "text": "2. Nghỉgiải lao ngắn sau mỗi 45 phút học.",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    155,
+    695,
+    712,
+    732
+   ],
+   "lines": [
+    {
+     "bbox": [
+      155,
+      695,
+      712,
+      732
+     ],
+     "text": "3. Tựkiểm tra bằng câu hỏi hoặc thẻghi nhớ.",
+     "size": 12.9,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 11
+}

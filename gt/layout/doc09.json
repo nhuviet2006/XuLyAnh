@@ -1,0 +1,287 @@
+{
+ "id": "doc09",
+ "size": [
+  1240,
+  1754
+ ],
+ "figures": [
+  {
+   "bbox": [
+    245,
+    609,
+    995,
+    1046
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "role": "title",
+   "bbox": [
+    253,
+    109,
+    987,
+    151
+   ],
+   "lines": [
+    {
+     "bbox": [
+      253,
+      109,
+      987,
+      151
+     ],
+     "text": "KẾHOẠCH PHÁT TRIỂN SẢN PHẨM PHẦN MỀM MỚI",
+     "size": 14.1,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "subtitle",
+   "bbox": [
+    280,
+    154,
+    960,
+    187
+   ],
+   "lines": [
+    {
+     "bbox": [
+      280,
+      154,
+      960,
+      187
+     ],
+     "text": "Chiến lược tiếp cận thịtrường và phân bổnguồn lực Q4/2026",
+     "size": 12.0,
+     "bold": false,
+     "italic": true
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    202,
+    819,
+    238
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      202,
+      526,
+      238
+     ],
+     "text": "Người soạn thảo: Nguyễn Văn Việt",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      547,
+      202,
+      554,
+      238
+     ],
+     "text": "|",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    },
+    {
+     "bbox": [
+      575,
+      202,
+      819,
+      238
+     ],
+     "text": "Ngày lập: 21/10/2026",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    256,
+    1119,
+    356
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      256,
+      1092,
+      290
+     ],
+     "text": "Dựán phát triển giải pháp quản trịdoanh nghiệp tích hợp AI nhằm mục tiêu tựđộng hóa",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      289,
+      1119,
+      323
+     ],
+     "text": "các quy trình làm việc phức tạp. Sản phẩm tập trung vào trải nghiệm người dùng đơn giản,",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      322,
+      740,
+      356
+     ],
+     "text": "khảnăng mởrộng linh hoạt và bảo mật dữliệu tuyệt đối.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "paragraph",
+   "bbox": [
+    112,
+    368,
+    1100,
+    435
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      368,
+      1100,
+      402
+     ],
+     "text": "Giai đoạn thửnghiệm Beta đã ghi nhận phản hồi tích cực từ50 doanh nghiệp đối tác, với",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    },
+    {
+     "bbox": [
+      112,
+      401,
+      814,
+      435
+     ],
+     "text": "hiệu suất làm việc trung bình tăng 25% sau một tháng áp dụng.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "heading",
+   "bbox": [
+    112,
+    446,
+    415,
+    482
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      446,
+      415,
+      482
+     ],
+     "text": "Lộtrình thực hiện cụthể:",
+     "size": 12.0,
+     "bold": true,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    487,
+    861,
+    521
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      487,
+      861,
+      521
+     ],
+     "text": "Hoàn thiện phiên bản thửnghiệm cuối cùng và sửa lỗi hệthống.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    522,
+    823,
+    556
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      522,
+      823,
+      556
+     ],
+     "text": "Tổchức hội thảo giới thiệu sản phẩm cho đối tác chiến lược.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  },
+  {
+   "role": "list_item",
+   "bbox": [
+    112,
+    557,
+    971,
+    591
+   ],
+   "lines": [
+    {
+     "bbox": [
+      112,
+      557,
+      971,
+      591
+     ],
+     "text": "Triển khai chiến dịch truyền thông đa kênh tập trung vào khách hàng B2B.",
+     "size": 12.0,
+     "bold": false,
+     "italic": false
+    }
+   ]
+  }
+ ],
+ "n_lines": 14
+}
